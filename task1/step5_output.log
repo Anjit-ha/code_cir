@@ -1,0 +1,27 @@
+Note: Only 1 sample(s) available. Using full dataset for training and evaluation.
+
+=== Classification Results ===
+Accuracy: 1.0000
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+AUC: N/A (insufficient unique classes)
+
+Detailed classification report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+Label counts in test set:
+Label 0: 1 samples (100.00%)
+Accuracy for label 0: 1.0000
+Accuracy for label 1: nan
+
+=== Metrics for label 0 ===
+AUROC (label 0): nan
+AUPR  (label 0): 1.0000
+FPR@95(label 0): nan

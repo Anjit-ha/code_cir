@@ -1,0 +1,1 @@
+{"task_id": 0, "text": "write a python function to check if a number is prime or not", "generated_code": "def is_prime(number):\n    \"\"\"\n    Check if the given number is prime.\n    Args:\n    number (int): The number to check.\n    Returns:\n    bool: True if the number is prime,"}
